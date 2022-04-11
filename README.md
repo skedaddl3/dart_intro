@@ -1,1 +1,1 @@
-A simple command-line application.
+Section 2: Dart Introduction
